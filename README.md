@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kseoggbexpor5ldpsdf7rgsn5i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31kseoggbexpor5ldpsdf7rgsn5i&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31kseoggbexpor5ldpsdf7rgsn5i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=light">
   </a>
-</p>
+</p>>
 
